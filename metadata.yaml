@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9533'
     url: http://www.gutenberg.org/2009/agents/9533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20809#Archie-s-Mistake
 gutenberg_issued: '2007-03-13'
 gutenberg_type: Text
 identifiers:
